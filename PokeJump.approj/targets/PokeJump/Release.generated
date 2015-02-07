@@ -1,0 +1,2751 @@
+{
+    "assets": [
+        {
+            "asset": "PokeJump/N232.png", 
+            "target": "N232.png"
+        }, 
+        {
+            "asset": "PokeJump/N191.png", 
+            "target": "N191.png"
+        }, 
+        {
+            "asset": "PokeJump/HoOh3.png", 
+            "target": "HoOh3.png"
+        }, 
+        {
+            "asset": "PokeJump/N21@2x.png", 
+            "target": "N21@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N1@2x.png", 
+            "target": "N1@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N17.png", 
+            "target": "N17.png"
+        }, 
+        {
+            "asset": "PokeJump/N88@2x.png", 
+            "target": "N88@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N197@2x.png", 
+            "target": "N197@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N241.png", 
+            "target": "N241.png"
+        }, 
+        {
+            "asset": "PokeJump/N205@2x.png", 
+            "target": "N205@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N71@2x.png", 
+            "target": "N71@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N4@2x.png", 
+            "target": "N4@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N246@2x.png", 
+            "target": "N246@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N6.png", 
+            "target": "N6.png"
+        }, 
+        {
+            "asset": "PokeJump/N202@2x.png", 
+            "target": "N202@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N148@2x.png", 
+            "target": "N148@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N111@2x.png", 
+            "target": "N111@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N13.png", 
+            "target": "N13.png"
+        }, 
+        {
+            "asset": "PokeJump/N69@2x.png", 
+            "target": "N69@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N68.png", 
+            "target": "N68.png"
+        }, 
+        {
+            "asset": "PokeJump/N134.png", 
+            "target": "N134.png"
+        }, 
+        {
+            "asset": "PokeJump/N65.png", 
+            "target": "N65.png"
+        }, 
+        {
+            "asset": "PokeJump/N144@2x.png", 
+            "target": "N144@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N217.png", 
+            "target": "N217.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N29.png", 
+            "target": "N29.png"
+        }, 
+        {
+            "asset": "PokeJump/N200.png", 
+            "target": "N200.png"
+        }, 
+        {
+            "asset": "PokeJump/N250@2x.png", 
+            "target": "N250@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N60@2x.png", 
+            "target": "N60@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N225.png", 
+            "target": "N225.png"
+        }, 
+        {
+            "asset": "PokeJump/N66.png", 
+            "target": "N66.png"
+        }, 
+        {
+            "asset": "PokeJump/N65@2x.png", 
+            "target": "N65@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N114@2x.png", 
+            "target": "N114@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N185.png", 
+            "target": "N185.png"
+        }, 
+        {
+            "asset": "PokeJump/N77.png", 
+            "target": "N77.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N18.png", 
+            "target": "N18.png"
+        }, 
+        {
+            "asset": "PokeJump/N48.png", 
+            "target": "N48.png"
+        }, 
+        {
+            "asset": "PokeJump/HDPokeJumpBGSUNSET.png", 
+            "target": "HDPokeJumpBGSUNSET.png"
+        }, 
+        {
+            "asset": "PokeJump/N238.png", 
+            "target": "N238.png"
+        }, 
+        {
+            "asset": "PokeJump/N7@2x.png", 
+            "target": "N7@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N133.png", 
+            "target": "N133.png"
+        }, 
+        {
+            "asset": "Fipps-Regular.otf", 
+            "target": "Fipps-Regular.otf"
+        }, 
+        {
+            "asset": "PokeJump/N115.png", 
+            "target": "N115.png"
+        }, 
+        {
+            "asset": "PokeJump/N201@2x.png", 
+            "target": "N201@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N242@2x.png", 
+            "target": "N242@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N52.png", 
+            "target": "N52.png"
+        }, 
+        {
+            "asset": "PokeJump/N46.png", 
+            "target": "N46.png"
+        }, 
+        {
+            "asset": "PokeJump/N221.png", 
+            "target": "N221.png"
+        }, 
+        {
+            "asset": "PokeJump/N15@2x.png", 
+            "target": "N15@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N94.png", 
+            "target": "N94.png"
+        }, 
+        {
+            "asset": "PokeJump/NewAwesomeButton.png", 
+            "target": "NewAwesomeButton.png"
+        }, 
+        {
+            "asset": "PokeJump/N181@2x.png", 
+            "target": "N181@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N215.png", 
+            "target": "N215.png"
+        }, 
+        {
+            "asset": "PokeJump/N146@2x.png", 
+            "target": "N146@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N155.png", 
+            "target": "N155.png"
+        }, 
+        {
+            "asset": "PokeJump/N70.png", 
+            "target": "N70.png"
+        }, 
+        {
+            "asset": "PokeJump/N174.png", 
+            "target": "N174.png"
+        }, 
+        {
+            "asset": "PokeJump/N89@2x.png", 
+            "target": "N89@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N162@2x.png", 
+            "target": "N162@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N72@2x.png", 
+            "target": "N72@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N183@2x.png", 
+            "target": "N183@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N130.png", 
+            "target": "N130.png"
+        }, 
+        {
+            "asset": "PokeJump/N5.png", 
+            "target": "N5.png"
+        }, 
+        {
+            "asset": "PokeJump/N216.png", 
+            "target": "N216.png"
+        }, 
+        {
+            "asset": "PokeJump/N161@2x.png", 
+            "target": "N161@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N89.png", 
+            "target": "N89.png"
+        }, 
+        {
+            "asset": "PokeJump/N110.png", 
+            "target": "N110.png"
+        }, 
+        {
+            "asset": "PokeJump/N233@2x.png", 
+            "target": "N233@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/NewPJBG5.png", 
+            "target": "NewPJBG5.png"
+        }, 
+        {
+            "asset": "PokeJump/N152@2x.png", 
+            "target": "N152@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/PokePlay-01.png", 
+            "target": "PokePlay-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N131.png", 
+            "target": "N131.png"
+        }, 
+        {
+            "asset": "PokeJump/YouFainted-01.png", 
+            "target": "YouFainted-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N180.png", 
+            "target": "N180.png"
+        }, 
+        {
+            "asset": "PokeJump/m04.TTF", 
+            "target": "m04.TTF"
+        }, 
+        {
+            "asset": "PokeJump/N177.png", 
+            "target": "N177.png"
+        }, 
+        {
+            "asset": "PokeJump/N147.png", 
+            "target": "N147.png"
+        }, 
+        {
+            "asset": "PokeJump/N149@2x.png", 
+            "target": "N149@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N95.png", 
+            "target": "N95.png"
+        }, 
+        {
+            "asset": "PokeJump/HitBoxes.csv", 
+            "target": "HitBoxes.csv"
+        }, 
+        {
+            "asset": "PokeJump/N151.png", 
+            "target": "N151.png"
+        }, 
+        {
+            "asset": "PokeJump/N59.png", 
+            "target": "N59.png"
+        }, 
+        {
+            "asset": "PokeJump/N236@2x.png", 
+            "target": "N236@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N199@2x.png", 
+            "target": "N199@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N229@2x.png", 
+            "target": "N229@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N99.png", 
+            "target": "N99.png"
+        }, 
+        {
+            "asset": "PokeJump/AnotherPokeButton.png", 
+            "target": "AnotherPokeButton.png"
+        }, 
+        {
+            "asset": "PokeJump/N207@2x.png", 
+            "target": "N207@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N126@2x.png", 
+            "target": "N126@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/React 2/JUMP.wav", 
+            "target": "JUMP.wav"
+        }, 
+        {
+            "asset": "PokeJump/NewPJBG4.png", 
+            "target": "NewPJBG4.png"
+        }, 
+        {
+            "asset": "PokeJump/N176.png", 
+            "target": "N176.png"
+        }, 
+        {
+            "asset": "PokeJump/N37@2x.png", 
+            "target": "N37@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N96.png", 
+            "target": "N96.png"
+        }, 
+        {
+            "asset": "PokeJump/N190@2x.png", 
+            "target": "N190@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N63@2x.png", 
+            "target": "N63@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N226.png", 
+            "target": "N226.png"
+        }, 
+        {
+            "asset": "PokeJump/N30@2x.png", 
+            "target": "N30@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/HoOh1.png", 
+            "target": "HoOh1.png"
+        }, 
+        {
+            "asset": "PokeJump/N18@2x.png", 
+            "target": "N18@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N46@2x.png", 
+            "target": "N46@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N155@2x.png", 
+            "target": "N155@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N41@2x.png", 
+            "target": "N41@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N145.png", 
+            "target": "N145.png"
+        }, 
+        {
+            "asset": "PokeJump/N143@2x.png", 
+            "target": "N143@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N136@2x.png", 
+            "target": "N136@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeSprites.atlas", 
+            "target": "PokeSprites.atlas"
+        }, 
+        {
+            "asset": "PokeJump/N112.png", 
+            "target": "N112.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N25.png", 
+            "target": "N25.png"
+        }, 
+        {
+            "asset": "PokeJump/N143.png", 
+            "target": "N143.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N39.png", 
+            "target": "N39.png"
+        }, 
+        {
+            "asset": "PokeJump/N204@2x.png", 
+            "target": "N204@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N85.png", 
+            "target": "N85.png"
+        }, 
+        {
+            "asset": "PokeJump/N3@2x.png", 
+            "target": "N3@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N26.png", 
+            "target": "N26.png"
+        }, 
+        {
+            "asset": "PokeJump/N44@2x.png", 
+            "target": "N44@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N244@2x.png", 
+            "target": "N244@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N172@2x.png", 
+            "target": "N172@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N42@2x.png", 
+            "target": "N42@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N14.png", 
+            "target": "N14.png"
+        }, 
+        {
+            "asset": "PokeJump/N199.png", 
+            "target": "N199.png"
+        }, 
+        {
+            "asset": "PokeJump/N117@2x.png", 
+            "target": "N117@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N55@2x.png", 
+            "target": "N55@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Pokemon GB.ttf", 
+            "target": "Pokemon GB.ttf"
+        }, 
+        {
+            "asset": "PokeJump/N180@2x.png", 
+            "target": "N180@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N205.png", 
+            "target": "N205.png"
+        }, 
+        {
+            "asset": "PokeJump/NewPJGround2.png", 
+            "target": "NewPJGround2.png"
+        }, 
+        {
+            "asset": "PokeJump/StatueObstacle.png", 
+            "target": "StatueObstacle.png"
+        }, 
+        {
+            "asset": "PokeJump/N212.png", 
+            "target": "N212.png"
+        }, 
+        {
+            "asset": "PokeJump/N104@2x.png", 
+            "target": "N104@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N113.png", 
+            "target": "N113.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeButtonNew.png", 
+            "target": "PokeButtonNew.png"
+        }, 
+        {
+            "asset": "PokeJump/N208@2x.png", 
+            "target": "N208@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N64@2x.png", 
+            "target": "N64@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N33.png", 
+            "target": "N33.png"
+        }, 
+        {
+            "asset": "PokeJump/N107.png", 
+            "target": "N107.png"
+        }, 
+        {
+            "asset": "PokeJump/m04b.TTF", 
+            "target": "m04b.TTF"
+        }, 
+        {
+            "asset": "PokeJump/N113@2x.png", 
+            "target": "N113@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N213.png", 
+            "target": "N213.png"
+        }, 
+        {
+            "asset": "PokeJump/HoOh4.png", 
+            "target": "HoOh4.png"
+        }, 
+        {
+            "asset": "PokeJump/ProfOak.png", 
+            "target": "ProfOak.png"
+        }, 
+        {
+            "asset": "PokeJump/N123@2x.png", 
+            "target": "N123@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N5@2x.png", 
+            "target": "N5@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N170.png", 
+            "target": "N170.png"
+        }, 
+        {
+            "asset": "PokeJump/N57.png", 
+            "target": "N57.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N37.png", 
+            "target": "N37.png"
+        }, 
+        {
+            "asset": "PokeJump/N212@2x.png", 
+            "target": "N212@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N63.png", 
+            "target": "N63.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/React 2/HIGHSCORE.wav", 
+            "target": "HIGHSCORE.wav"
+        }, 
+        {
+            "asset": "PokeJump/HDPokeJumpBG.png", 
+            "target": "HDPokeJumpBG.png"
+        }, 
+        {
+            "asset": "PokeJump/N98.png", 
+            "target": "N98.png"
+        }, 
+        {
+            "asset": "PokeJump/N32@2x.png", 
+            "target": "N32@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N112@2x.png", 
+            "target": "N112@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N54@2x.png", 
+            "target": "N54@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N242.png", 
+            "target": "N242.png"
+        }, 
+        {
+            "asset": "PokeJump/N162.png", 
+            "target": "N162.png"
+        }, 
+        {
+            "asset": "PokeJump/FinalGround.png", 
+            "target": "FinalGround.png"
+        }, 
+        {
+            "asset": "PokeJump/N51@2x.png", 
+            "target": "N51@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N124@2x.png", 
+            "target": "N124@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N186.png", 
+            "target": "N186.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeShare-01.png", 
+            "target": "PokeShare-01.png"
+        }, 
+        {
+            "asset": "PokeJump/NiceOK.png", 
+            "target": "NiceOK.png"
+        }, 
+        {
+            "asset": "PokeJump/N230.png", 
+            "target": "N230.png"
+        }, 
+        {
+            "asset": "PokeJump/UpdatedScoreBox-02-01.png", 
+            "target": "UpdatedScoreBox-02-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N168@2x.png", 
+            "target": "N168@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N146.png", 
+            "target": "N146.png"
+        }, 
+        {
+            "asset": "PokeJump/N121@2x.png", 
+            "target": "N121@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N154@2x.png", 
+            "target": "N154@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N221@2x.png", 
+            "target": "N221@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/PrStart.ttf", 
+            "target": "PrStart.ttf"
+        }, 
+        {
+            "asset": "PokeJump/N125@2x.png", 
+            "target": "N125@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/Sounds/whack.wav", 
+            "target": "whack.wav"
+        }, 
+        {
+            "asset": "PokeJump/SUPERSWAG/OGAshh0.png", 
+            "target": "OGAshh0.png"
+        }, 
+        {
+            "asset": "PokeJump/TapToJump-01.png", 
+            "target": "TapToJump-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N121.png", 
+            "target": "N121.png"
+        }, 
+        {
+            "asset": "PokeJump/N182.png", 
+            "target": "N182.png"
+        }, 
+        {
+            "asset": "PokeJump/N29@2x.png", 
+            "target": "N29@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N145@2x.png", 
+            "target": "N145@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N234.png", 
+            "target": "N234.png"
+        }, 
+        {
+            "asset": "PokeJump/AnotherPokeButton3.png", 
+            "target": "AnotherPokeButton3.png"
+        }, 
+        {
+            "asset": "PokeJump/N74@2x.png", 
+            "target": "N74@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N207.png", 
+            "target": "N207.png"
+        }, 
+        {
+            "asset": "PokeJump/UpdatedPokeButton.png", 
+            "target": "UpdatedPokeButton.png"
+        }, 
+        {
+            "asset": "PokeJump/N147@2x.png", 
+            "target": "N147@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N140.png", 
+            "target": "N140.png"
+        }, 
+        {
+            "asset": "PokeJump/N45@2x.png", 
+            "target": "N45@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N84@2x.png", 
+            "target": "N84@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N97.png", 
+            "target": "N97.png"
+        }, 
+        {
+            "asset": "PokeJump/CoolAshh.atlas", 
+            "target": "CoolAshh.atlas"
+        }, 
+        {
+            "asset": "PokeJump/N157.png", 
+            "target": "N157.png"
+        }, 
+        {
+            "asset": "PokeJump/N169.png", 
+            "target": "N169.png"
+        }, 
+        {
+            "asset": "PokeJump/N116@2x.png", 
+            "target": "N116@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/NewScoreBoxSwag-01.png", 
+            "target": "NewScoreBoxSwag-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N116.png", 
+            "target": "N116.png"
+        }, 
+        {
+            "asset": "PokeJump/en.lproj/InfoPlist.strings", 
+            "target": "en.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "PokeJump/N103@2x.png", 
+            "target": "N103@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N129.png", 
+            "target": "N129.png"
+        }, 
+        {
+            "asset": "PokeJump/N127@2x.png", 
+            "target": "N127@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N23.png", 
+            "target": "N23.png"
+        }, 
+        {
+            "asset": "PokeJump/N187.png", 
+            "target": "N187.png"
+        }, 
+        {
+            "asset": "PokeJump/FinalSB-01.png", 
+            "target": "FinalSB-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N157@2x.png", 
+            "target": "N157@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N2@2x.png", 
+            "target": "N2@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N99@2x.png", 
+            "target": "N99@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N12@2x.png", 
+            "target": "N12@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N111.png", 
+            "target": "N111.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeJumpLogo1-01.png", 
+            "target": "PokeJumpLogo1-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N139@2x.png", 
+            "target": "N139@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N138.png", 
+            "target": "N138.png"
+        }, 
+        {
+            "asset": "PokeJump/Poke1@2x.png", 
+            "target": "Poke1@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N232@2x.png", 
+            "target": "N232@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N90@2x.png", 
+            "target": "N90@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N245.png", 
+            "target": "N245.png"
+        }, 
+        {
+            "asset": "PokeJump/N210@2x.png", 
+            "target": "N210@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/Sounds/coin.wav", 
+            "target": "coin.wav"
+        }, 
+        {
+            "asset": "PokeJump/N132.png", 
+            "target": "N132.png"
+        }, 
+        {
+            "asset": "PokeJump/N195@2x.png", 
+            "target": "N195@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N125.png", 
+            "target": "N125.png"
+        }, 
+        {
+            "asset": "PokeJump/N164@2x.png", 
+            "target": "N164@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N19@2x.png", 
+            "target": "N19@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N15.png", 
+            "target": "N15.png"
+        }, 
+        {
+            "asset": "PokeJump/N102@2x.png", 
+            "target": "N102@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N187@2x.png", 
+            "target": "N187@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N26@2x.png", 
+            "target": "N26@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N42.png", 
+            "target": "N42.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N11.png", 
+            "target": "N11.png"
+        }, 
+        {
+            "asset": "PokeJump/N52@2x.png", 
+            "target": "N52@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N123.png", 
+            "target": "N123.png"
+        }, 
+        {
+            "asset": "PokeJump/FINALSuperButtonHL.png", 
+            "target": "FINALSuperButtonHL.png"
+        }, 
+        {
+            "asset": "PokeJump/N118@2x.png", 
+            "target": "N118@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N70@2x.png", 
+            "target": "N70@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N195.png", 
+            "target": "N195.png"
+        }, 
+        {
+            "asset": "PokeJump/N170@2x.png", 
+            "target": "N170@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N175.png", 
+            "target": "N175.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N21.png", 
+            "target": "N21.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N40.png", 
+            "target": "N40.png"
+        }, 
+        {
+            "asset": "PokeJump/N164.png", 
+            "target": "N164.png"
+        }, 
+        {
+            "asset": "PokeJump/N138@2x.png", 
+            "target": "N138@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N104.png", 
+            "target": "N104.png"
+        }, 
+        {
+            "asset": "PokeJump/N149.png", 
+            "target": "N149.png"
+        }, 
+        {
+            "asset": "PokeJump/N115@2x.png", 
+            "target": "N115@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N12.png", 
+            "target": "N12.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/Sounds/SmackSound.wav", 
+            "target": "SmackSound.wav"
+        }, 
+        {
+            "asset": "PokeJump/N200@2x.png", 
+            "target": "N200@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N209.png", 
+            "target": "N209.png"
+        }, 
+        {
+            "asset": "PokeJump/lock-6.png", 
+            "target": "lock-6.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N32.png", 
+            "target": "N32.png"
+        }, 
+        {
+            "asset": "PokeJump/N151@2x.png", 
+            "target": "N151@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N166@2x.png", 
+            "target": "N166@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeJumpIcon.png", 
+            "target": "PokeJumpIcon.png"
+        }, 
+        {
+            "asset": "PokeJump/N231.png", 
+            "target": "N231.png"
+        }, 
+        {
+            "asset": "PokeJump/N128.png", 
+            "target": "N128.png"
+        }, 
+        {
+            "asset": "PokeJump/N103.png", 
+            "target": "N103.png"
+        }, 
+        {
+            "asset": "PokeJump/N224@2x.png", 
+            "target": "N224@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/YouFainted.png", 
+            "target": "YouFainted.png"
+        }, 
+        {
+            "asset": "PokeJump/N73@2x.png", 
+            "target": "N73@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N86.png", 
+            "target": "N86.png"
+        }, 
+        {
+            "asset": "PokeJump/N58@2x.png", 
+            "target": "N58@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N139.png", 
+            "target": "N139.png"
+        }, 
+        {
+            "asset": "PokeJump/N43@2x.png", 
+            "target": "N43@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N9.png", 
+            "target": "N9.png"
+        }, 
+        {
+            "asset": "PokeJump/N102.png", 
+            "target": "N102.png"
+        }, 
+        {
+            "asset": "PokeJump/N161.png", 
+            "target": "N161.png"
+        }, 
+        {
+            "asset": "PokeJump/N150.png", 
+            "target": "N150.png"
+        }, 
+        {
+            "asset": "PokeJump/N38@2x.png", 
+            "target": "N38@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N174@2x.png", 
+            "target": "N174@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N178.png", 
+            "target": "N178.png"
+        }, 
+        {
+            "asset": "PokeJump/N142.png", 
+            "target": "N142.png"
+        }, 
+        {
+            "asset": "PokeJump/N167.png", 
+            "target": "N167.png"
+        }, 
+        {
+            "asset": "PokeJump/N218.png", 
+            "target": "N218.png"
+        }, 
+        {
+            "asset": "PokeJump/N220@2x.png", 
+            "target": "N220@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/GetReady-01-01.png", 
+            "target": "GetReady-01-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N214.png", 
+            "target": "N214.png"
+        }, 
+        {
+            "asset": "PokeJump/N61@2x.png", 
+            "target": "N61@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N206@2x.png", 
+            "target": "N206@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N54.png", 
+            "target": "N54.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N19.png", 
+            "target": "N19.png"
+        }, 
+        {
+            "asset": "PokeJump/N45.png", 
+            "target": "N45.png"
+        }, 
+        {
+            "asset": "PokeJump/N196@2x.png", 
+            "target": "N196@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N214@2x.png", 
+            "target": "N214@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N49@2x.png", 
+            "target": "N49@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N95@2x.png", 
+            "target": "N95@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N73.png", 
+            "target": "N73.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeShare.png", 
+            "target": "PokeShare.png"
+        }, 
+        {
+            "asset": "PokeJump/N41.png", 
+            "target": "N41.png"
+        }, 
+        {
+            "asset": "PokeJump/SUPERSWAG/OGAshh2.png", 
+            "target": "OGAshh2.png"
+        }, 
+        {
+            "asset": "PokeJump/N183.png", 
+            "target": "N183.png"
+        }, 
+        {
+            "asset": "PokeJump/N237@2x.png", 
+            "target": "N237@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/GetReady-01.png", 
+            "target": "GetReady-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N8@2x.png", 
+            "target": "N8@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N224.png", 
+            "target": "N224.png"
+        }, 
+        {
+            "asset": "PokeJump/Revive-01.png", 
+            "target": "Revive-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N23@2x.png", 
+            "target": "N23@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N119@2x.png", 
+            "target": "N119@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N67@2x.png", 
+            "target": "N67@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/AnotherPokeButton2.png", 
+            "target": "AnotherPokeButton2.png"
+        }, 
+        {
+            "asset": "PokeJump/N120.png", 
+            "target": "N120.png"
+        }, 
+        {
+            "asset": "PokeJump/N171@2x.png", 
+            "target": "N171@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/YouFainted02.png", 
+            "target": "YouFainted02.png"
+        }, 
+        {
+            "asset": "PokeJump/N20@2x.png", 
+            "target": "N20@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N249@2x.png", 
+            "target": "N249@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N122.png", 
+            "target": "N122.png"
+        }, 
+        {
+            "asset": "PokeJump/N201.png", 
+            "target": "N201.png"
+        }, 
+        {
+            "asset": "PokeJump/N153@2x.png", 
+            "target": "N153@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N91@2x.png", 
+            "target": "N91@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/AnotherPokeButtonHighlighted.png", 
+            "target": "AnotherPokeButtonHighlighted.png"
+        }, 
+        {
+            "asset": "PokeJump/N68@2x.png", 
+            "target": "N68@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N135.png", 
+            "target": "N135.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N27.png", 
+            "target": "N27.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeJumpGreenLogo-01.png", 
+            "target": "PokeJumpGreenLogo-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N223.png", 
+            "target": "N223.png"
+        }, 
+        {
+            "asset": "PokeJump/N79@2x.png", 
+            "target": "N79@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N135@2x.png", 
+            "target": "N135@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N76.png", 
+            "target": "N76.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N10.png", 
+            "target": "N10.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N20.png", 
+            "target": "N20.png"
+        }, 
+        {
+            "asset": "PokeJump/N234@2x.png", 
+            "target": "N234@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/OGAsh1.png", 
+            "target": "OGAsh1.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/Art/backgrounds.atlas", 
+            "target": "backgrounds.atlas"
+        }, 
+        {
+            "asset": "PokeJump/N192@2x.png", 
+            "target": "N192@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N208.png", 
+            "target": "N208.png"
+        }, 
+        {
+            "asset": "PokeJump/CrazyAsh.atlas", 
+            "target": "CrazyAsh.atlas"
+        }, 
+        {
+            "asset": "PokeJump/PokeButtonNew@2x.png", 
+            "target": "PokeButtonNew@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N198.png", 
+            "target": "N198.png"
+        }, 
+        {
+            "asset": "PokeJump/N167@2x.png", 
+            "target": "N167@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Spaceship.png", 
+            "target": "Spaceship.png"
+        }, 
+        {
+            "asset": "PokeJump/ScoreBoxNew@2x.png", 
+            "target": "ScoreBoxNew@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N156@2x.png", 
+            "target": "N156@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N2.png", 
+            "target": "N2.png"
+        }, 
+        {
+            "asset": "PokeJump/NewPJBG2.png", 
+            "target": "NewPJBG2.png"
+        }, 
+        {
+            "asset": "PokeJump/N67.png", 
+            "target": "N67.png"
+        }, 
+        {
+            "asset": "PokeJump/N219.png", 
+            "target": "N219.png"
+        }, 
+        {
+            "asset": "PokeJump/N193.png", 
+            "target": "N193.png"
+        }, 
+        {
+            "asset": "PokeJump/N222.png", 
+            "target": "N222.png"
+        }, 
+        {
+            "asset": "PokeJump/N238@2x.png", 
+            "target": "N238@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N189.png", 
+            "target": "N189.png"
+        }, 
+        {
+            "asset": "PokeJump/YouFainted2.png", 
+            "target": "YouFainted2.png"
+        }, 
+        {
+            "asset": "PokeJump/N127.png", 
+            "target": "N127.png"
+        }, 
+        {
+            "asset": "PokeJump/N79.png", 
+            "target": "N79.png"
+        }, 
+        {
+            "asset": "PokeJump/NiceShare.png", 
+            "target": "NiceShare.png"
+        }, 
+        {
+            "asset": "PokeJump/N61.png", 
+            "target": "N61.png"
+        }, 
+        {
+            "asset": "PokeJump/N227@2x.png", 
+            "target": "N227@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N188@2x.png", 
+            "target": "N188@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/CutTree.png", 
+            "target": "CutTree.png"
+        }, 
+        {
+            "asset": "PokeJump/N82.png", 
+            "target": "N82.png"
+        }, 
+        {
+            "asset": "PokeJump/N166.png", 
+            "target": "N166.png"
+        }, 
+        {
+            "asset": "PokeJump/N223@2x.png", 
+            "target": "N223@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N40@2x.png", 
+            "target": "N40@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N216@2x.png", 
+            "target": "N216@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N119.png", 
+            "target": "N119.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N28.png", 
+            "target": "N28.png"
+        }, 
+        {
+            "asset": "PokeJump/N235@2x.png", 
+            "target": "N235@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N66@2x.png", 
+            "target": "N66@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N203@2x.png", 
+            "target": "N203@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N130@2x.png", 
+            "target": "N130@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeButton.png", 
+            "target": "PokeButton.png"
+        }, 
+        {
+            "asset": "PokeJump/N91.png", 
+            "target": "N91.png"
+        }, 
+        {
+            "asset": "PokeJump/N85@2x.png", 
+            "target": "N85@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N74.png", 
+            "target": "N74.png"
+        }, 
+        {
+            "asset": "PokeJump/N244.png", 
+            "target": "N244.png"
+        }, 
+        {
+            "asset": "PokeJump/N220.png", 
+            "target": "N220.png"
+        }, 
+        {
+            "asset": "PokeJump/N165@2x.png", 
+            "target": "N165@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/PixelAsh.png", 
+            "target": "PixelAsh.png"
+        }, 
+        {
+            "asset": "PokeJump/NewTreeObstacle.png", 
+            "target": "NewTreeObstacle.png"
+        }, 
+        {
+            "asset": "PokeJump/N179.png", 
+            "target": "N179.png"
+        }, 
+        {
+            "asset": "PokeJump/N64.png", 
+            "target": "N64.png"
+        }, 
+        {
+            "asset": "PokeJump/N110@2x.png", 
+            "target": "N110@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/React 2/SELECT.wav", 
+            "target": "SELECT.wav"
+        }, 
+        {
+            "asset": "PokeJump/N6@2x.png", 
+            "target": "N6@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/NewReady-01.png", 
+            "target": "NewReady-01.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/Art/Pics.atlas/PokeGroundN.png", 
+            "target": "PokeGroundN.png"
+        }, 
+        {
+            "asset": "PokeJump/FINALSuperButton.png", 
+            "target": "FINALSuperButton.png"
+        }, 
+        {
+            "asset": "PokeJump/N219@2x.png", 
+            "target": "N219@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N168.png", 
+            "target": "N168.png"
+        }, 
+        {
+            "asset": "PokeJump/N215@2x.png", 
+            "target": "N215@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N4.png", 
+            "target": "N4.png"
+        }, 
+        {
+            "asset": "PokeJump/N160@2x.png", 
+            "target": "N160@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N49.png", 
+            "target": "N49.png"
+        }, 
+        {
+            "asset": "PokeJump/HoOh5.png", 
+            "target": "HoOh5.png"
+        }, 
+        {
+            "asset": "PokeJump/N197.png", 
+            "target": "N197.png"
+        }, 
+        {
+            "asset": "PokeJump/N193@2x.png", 
+            "target": "N193@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N94@2x.png", 
+            "target": "N94@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N108@2x.png", 
+            "target": "N108@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N117.png", 
+            "target": "N117.png"
+        }, 
+        {
+            "asset": "PokeJump/N87@2x.png", 
+            "target": "N87@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N227.png", 
+            "target": "N227.png"
+        }, 
+        {
+            "asset": "PokeJump/N105@2x.png", 
+            "target": "N105@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N53@2x.png", 
+            "target": "N53@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N36.png", 
+            "target": "N36.png"
+        }, 
+        {
+            "asset": "PokeJump/N140@2x.png", 
+            "target": "N140@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N248.png", 
+            "target": "N248.png"
+        }, 
+        {
+            "asset": "PokeJump/N251.png", 
+            "target": "N251.png"
+        }, 
+        {
+            "asset": "PokeJump/N122@2x.png", 
+            "target": "N122@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N35@2x.png", 
+            "target": "N35@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N35.png", 
+            "target": "N35.png"
+        }, 
+        {
+            "asset": "PokeJump/N131@2x.png", 
+            "target": "N131@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N132@2x.png", 
+            "target": "N132@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N87.png", 
+            "target": "N87.png"
+        }, 
+        {
+            "asset": "PokeJump/N188.png", 
+            "target": "N188.png"
+        }, 
+        {
+            "asset": "PokeJump/N93.png", 
+            "target": "N93.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeOK.png", 
+            "target": "PokeOK.png"
+        }, 
+        {
+            "asset": "PokeJump/N126.png", 
+            "target": "N126.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/Art/Pics.atlas", 
+            "target": "Pics.atlas"
+        }, 
+        {
+            "asset": "PokeJump/N101@2x.png", 
+            "target": "N101@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N169@2x.png", 
+            "target": "N169@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/HoOh2.png", 
+            "target": "HoOh2.png"
+        }, 
+        {
+            "asset": "PokeJump/N43.png", 
+            "target": "N43.png"
+        }, 
+        {
+            "asset": "PokeJump/N239@2x.png", 
+            "target": "N239@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N69.png", 
+            "target": "N69.png"
+        }, 
+        {
+            "asset": "PokeJump/N50@2x.png", 
+            "target": "N50@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N107@2x.png", 
+            "target": "N107@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/TapToPlayGrey-01.png", 
+            "target": "TapToPlayGrey-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N60.png", 
+            "target": "N60.png"
+        }, 
+        {
+            "asset": "PokeJump/ScoreBox@2x.png", 
+            "target": "ScoreBox@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N142@2x.png", 
+            "target": "N142@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N75@2x.png", 
+            "target": "N75@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N53.png", 
+            "target": "N53.png"
+        }, 
+        {
+            "asset": "PokeJump/ScoreBoxNew.png", 
+            "target": "ScoreBoxNew.png"
+        }, 
+        {
+            "asset": "PokeJump/N204.png", 
+            "target": "N204.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N16.png", 
+            "target": "N16.png"
+        }, 
+        {
+            "asset": "PokeJump/N78.png", 
+            "target": "N78.png"
+        }, 
+        {
+            "asset": "PokeJump/N11@2x.png", 
+            "target": "N11@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N218@2x.png", 
+            "target": "N218@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N13@2x.png", 
+            "target": "N13@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeShareNew.png", 
+            "target": "PokeShareNew.png"
+        }, 
+        {
+            "asset": "PokeJump/N109.png", 
+            "target": "N109.png"
+        }, 
+        {
+            "asset": "PokeJump/HoOh6.png", 
+            "target": "HoOh6.png"
+        }, 
+        {
+            "asset": "PokeJump/N57@2x.png", 
+            "target": "N57@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N114.png", 
+            "target": "N114.png"
+        }, 
+        {
+            "asset": "PokeJump/N101.png", 
+            "target": "N101.png"
+        }, 
+        {
+            "asset": "PokeJump/N51.png", 
+            "target": "N51.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/Sounds/hitGround.wav", 
+            "target": "hitGround.wav"
+        }, 
+        {
+            "asset": "PokeJump/N249.png", 
+            "target": "N249.png"
+        }, 
+        {
+            "asset": "PokeJump/N120@2x.png", 
+            "target": "N120@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/CutTree@2x.png", 
+            "target": "CutTree@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N71.png", 
+            "target": "N71.png"
+        }, 
+        {
+            "asset": "PokeJump/N56.png", 
+            "target": "N56.png"
+        }, 
+        {
+            "asset": "PokeJump/N8.png", 
+            "target": "N8.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeOKNew.png", 
+            "target": "PokeOKNew.png"
+        }, 
+        {
+            "asset": "PokeJump/N159.png", 
+            "target": "N159.png"
+        }, 
+        {
+            "asset": "PokeJump/N81@2x.png", 
+            "target": "N81@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/React 2/BUMP.wav", 
+            "target": "BUMP.wav"
+        }, 
+        {
+            "asset": "PokeJump/HoOh0.png", 
+            "target": "HoOh0.png"
+        }, 
+        {
+            "asset": "PokeJump/N217@2x.png", 
+            "target": "N217@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/ProfOak@2x.png", 
+            "target": "ProfOak@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/Sounds/pop.wav", 
+            "target": "pop.wav"
+        }, 
+        {
+            "asset": "PokeJump/N78@2x.png", 
+            "target": "N78@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N243.png", 
+            "target": "N243.png"
+        }, 
+        {
+            "asset": "PokeJump/N163@2x.png", 
+            "target": "N163@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N229.png", 
+            "target": "N229.png"
+        }, 
+        {
+            "asset": "PokeJump/N14@2x.png", 
+            "target": "N14@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N240.png", 
+            "target": "N240.png"
+        }, 
+        {
+            "asset": "PokeJump/UpdatedGround.png", 
+            "target": "UpdatedGround.png"
+        }, 
+        {
+            "asset": "PokeJump/N47.png", 
+            "target": "N47.png"
+        }, 
+        {
+            "asset": "PokeJump/UpdatedScoreBox-01.png", 
+            "target": "UpdatedScoreBox-01.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N38.png", 
+            "target": "N38.png"
+        }, 
+        {
+            "asset": "PokeJump/N191@2x.png", 
+            "target": "N191@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N129@2x.png", 
+            "target": "N129@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N108.png", 
+            "target": "N108.png"
+        }, 
+        {
+            "asset": "PokeJump/StatueObstacle@2x.png", 
+            "target": "StatueObstacle@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N128@2x.png", 
+            "target": "N128@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N25@2x.png", 
+            "target": "N25@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N154.png", 
+            "target": "N154.png"
+        }, 
+        {
+            "asset": "PokeJump/OGAsh0.png", 
+            "target": "OGAsh0.png"
+        }, 
+        {
+            "asset": "PokeJump/N55.png", 
+            "target": "N55.png"
+        }, 
+        {
+            "asset": "PokeJump/N33@2x.png", 
+            "target": "N33@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N152.png", 
+            "target": "N152.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N31.png", 
+            "target": "N31.png"
+        }, 
+        {
+            "asset": "PokeJump/N80.png", 
+            "target": "N80.png"
+        }, 
+        {
+            "asset": "PokeJump/N83@2x.png", 
+            "target": "N83@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N92.png", 
+            "target": "N92.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N22.png", 
+            "target": "N22.png"
+        }, 
+        {
+            "asset": "PokeJump/N158.png", 
+            "target": "N158.png"
+        }, 
+        {
+            "asset": "PokeJump/N36@2x.png", 
+            "target": "N36@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N176@2x.png", 
+            "target": "N176@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N173.png", 
+            "target": "N173.png"
+        }, 
+        {
+            "asset": "PokeJump/N156.png", 
+            "target": "N156.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/React 2/FALLINGSOUND.wav", 
+            "target": "FALLINGSOUND.wav"
+        }, 
+        {
+            "asset": "PokeJump/N179@2x.png", 
+            "target": "N179@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N24.png", 
+            "target": "N24.png"
+        }, 
+        {
+            "asset": "PokeJump/N90.png", 
+            "target": "N90.png"
+        }, 
+        {
+            "asset": "PokeJump/N80@2x.png", 
+            "target": "N80@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N136.png", 
+            "target": "N136.png"
+        }, 
+        {
+            "asset": "PokeJump/N186@2x.png", 
+            "target": "N186@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/PixelAsh@2x.png", 
+            "target": "PixelAsh@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N141@2x.png", 
+            "target": "N141@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/OGAsh2.png", 
+            "target": "OGAsh2.png"
+        }, 
+        {
+            "asset": "PokeJump/N181.png", 
+            "target": "N181.png"
+        }, 
+        {
+            "asset": "PokeJump/N192.png", 
+            "target": "N192.png"
+        }, 
+        {
+            "asset": "PokeJump/N185@2x.png", 
+            "target": "N185@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N233.png", 
+            "target": "N233.png"
+        }, 
+        {
+            "asset": "PokeJump/N72.png", 
+            "target": "N72.png"
+        }, 
+        {
+            "asset": "PokeJump/N210.png", 
+            "target": "N210.png"
+        }, 
+        {
+            "asset": "PokeJump/N184.png", 
+            "target": "N184.png"
+        }, 
+        {
+            "asset": "PokeJump/NewPJBG.png", 
+            "target": "NewPJBG.png"
+        }, 
+        {
+            "asset": "PokeJump/N100@2x.png", 
+            "target": "N100@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N24@2x.png", 
+            "target": "N24@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N9@2x.png", 
+            "target": "N9@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N27@2x.png", 
+            "target": "N27@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/TapJump-01.png", 
+            "target": "TapJump-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N106.png", 
+            "target": "N106.png"
+        }, 
+        {
+            "asset": "PokeJump/N194@2x.png", 
+            "target": "N194@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N239.png", 
+            "target": "N239.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/Sounds/ding.wav", 
+            "target": "ding.wav"
+        }, 
+        {
+            "asset": "PokeJump/N231@2x.png", 
+            "target": "N231@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N30.png", 
+            "target": "N30.png"
+        }, 
+        {
+            "asset": "PokeJump/N10@2x.png", 
+            "target": "N10@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N190.png", 
+            "target": "N190.png"
+        }, 
+        {
+            "asset": "PokeJump/N88.png", 
+            "target": "N88.png"
+        }, 
+        {
+            "asset": "PokeJump/N228.png", 
+            "target": "N228.png"
+        }, 
+        {
+            "asset": "PokeJump/N184@2x.png", 
+            "target": "N184@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N124.png", 
+            "target": "N124.png"
+        }, 
+        {
+            "asset": "PokeJump/N225@2x.png", 
+            "target": "N225@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N28@2x.png", 
+            "target": "N28@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N86@2x.png", 
+            "target": "N86@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Rate-01.png", 
+            "target": "Rate-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N198@2x.png", 
+            "target": "N198@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N173@2x.png", 
+            "target": "N173@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/Sounds/flapping.wav", 
+            "target": "flapping.wav"
+        }, 
+        {
+            "asset": "PokeJump/N7.png", 
+            "target": "N7.png"
+        }, 
+        {
+            "asset": "PokeJump/N213@2x.png", 
+            "target": "N213@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N17@2x.png", 
+            "target": "N17@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N243@2x.png", 
+            "target": "N243@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N84.png", 
+            "target": "N84.png"
+        }, 
+        {
+            "asset": "PokeJump/N59@2x.png", 
+            "target": "N59@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N209@2x.png", 
+            "target": "N209@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N246.png", 
+            "target": "N246.png"
+        }, 
+        {
+            "asset": "PokeJump/N134@2x.png", 
+            "target": "N134@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/HoOh7.png", 
+            "target": "HoOh7.png"
+        }, 
+        {
+            "asset": "PokeJump/N93@2x.png", 
+            "target": "N93@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/ScoreBox.png", 
+            "target": "ScoreBox.png"
+        }, 
+        {
+            "asset": "PokeJump/N240@2x.png", 
+            "target": "N240@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N230@2x.png", 
+            "target": "N230@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N133@2x.png", 
+            "target": "N133@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N153.png", 
+            "target": "N153.png"
+        }, 
+        {
+            "asset": "PokeJump/N211.png", 
+            "target": "N211.png"
+        }, 
+        {
+            "asset": "PokeJump/N150@2x.png", 
+            "target": "N150@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Poke2@2x.png", 
+            "target": "Poke2@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/NewButtonSwag-01.png", 
+            "target": "NewButtonSwag-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N144.png", 
+            "target": "N144.png"
+        }, 
+        {
+            "asset": "PokeJump/N34@2x.png", 
+            "target": "N34@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/HoOhFrames.atlas", 
+            "target": "HoOhFrames.atlas"
+        }, 
+        {
+            "asset": "PokeJump/JohtoBox-01.png", 
+            "target": "JohtoBox-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N58.png", 
+            "target": "N58.png"
+        }, 
+        {
+            "asset": "PokeJump/N171.png", 
+            "target": "N171.png"
+        }, 
+        {
+            "asset": "PokeJump/N251@2x.png", 
+            "target": "N251@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N226@2x.png", 
+            "target": "N226@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N247.png", 
+            "target": "N247.png"
+        }, 
+        {
+            "asset": "PokeJump/N83.png", 
+            "target": "N83.png"
+        }, 
+        {
+            "asset": "PokeJump/N77@2x.png", 
+            "target": "N77@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N92@2x.png", 
+            "target": "N92@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N109@2x.png", 
+            "target": "N109@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N22@2x.png", 
+            "target": "N22@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N148.png", 
+            "target": "N148.png"
+        }, 
+        {
+            "asset": "PokeJump/N235.png", 
+            "target": "N235.png"
+        }, 
+        {
+            "asset": "PokeJump/N75.png", 
+            "target": "N75.png"
+        }, 
+        {
+            "asset": "PokeJump/N44.png", 
+            "target": "N44.png"
+        }, 
+        {
+            "asset": "PokeJump/N76@2x.png", 
+            "target": "N76@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N31@2x.png", 
+            "target": "N31@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N56@2x.png", 
+            "target": "N56@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N3.png", 
+            "target": "N3.png"
+        }, 
+        {
+            "asset": "PokeJump/Test3.atlas", 
+            "target": "Test3.atlas"
+        }, 
+        {
+            "asset": "PokeJump/N62.png", 
+            "target": "N62.png"
+        }, 
+        {
+            "asset": "PokeJump/N137.png", 
+            "target": "N137.png"
+        }, 
+        {
+            "asset": "PokeJump/N228@2x.png", 
+            "target": "N228@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeJumpLogo-01.png", 
+            "target": "PokeJumpLogo-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N141.png", 
+            "target": "N141.png"
+        }, 
+        {
+            "asset": "PokeJump/N175@2x.png", 
+            "target": "N175@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N16@2x.png", 
+            "target": "N16@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N236.png", 
+            "target": "N236.png"
+        }, 
+        {
+            "asset": "PokeJump/N222@2x.png", 
+            "target": "N222@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N47@2x.png", 
+            "target": "N47@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/NewTreeObstacle@2x.png", 
+            "target": "NewTreeObstacle@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N82@2x.png", 
+            "target": "N82@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N172.png", 
+            "target": "N172.png"
+        }, 
+        {
+            "asset": "PokeJump/NewPJBG3.png", 
+            "target": "NewPJBG3.png"
+        }, 
+        {
+            "asset": "PokeJump/N98@2x.png", 
+            "target": "N98@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N178@2x.png", 
+            "target": "N178@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N50.png", 
+            "target": "N50.png"
+        }, 
+        {
+            "asset": "PokeJump/N165.png", 
+            "target": "N165.png"
+        }, 
+        {
+            "asset": "PokeJump/N203.png", 
+            "target": "N203.png"
+        }, 
+        {
+            "asset": "PokeJump/N100.png", 
+            "target": "N100.png"
+        }, 
+        {
+            "asset": "PokeJump/N247@2x.png", 
+            "target": "N247@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N62@2x.png", 
+            "target": "N62@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N48@2x.png", 
+            "target": "N48@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N159@2x.png", 
+            "target": "N159@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N163.png", 
+            "target": "N163.png"
+        }, 
+        {
+            "asset": "PokeJump/TutorialReady-01.png", 
+            "target": "TutorialReady-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N97@2x.png", 
+            "target": "N97@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N158@2x.png", 
+            "target": "N158@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N250.png", 
+            "target": "N250.png"
+        }, 
+        {
+            "asset": "PokeJump/N137@2x.png", 
+            "target": "N137@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N237.png", 
+            "target": "N237.png"
+        }, 
+        {
+            "asset": "PokeJump/N245@2x.png", 
+            "target": "N245@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/JohtoButton-01.png", 
+            "target": "JohtoButton-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N106@2x.png", 
+            "target": "N106@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N189@2x.png", 
+            "target": "N189@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N248@2x.png", 
+            "target": "N248@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N202.png", 
+            "target": "N202.png"
+        }, 
+        {
+            "asset": "PokeJump/N39@2x.png", 
+            "target": "N39@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N211@2x.png", 
+            "target": "N211@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Finsihed251Sprites/N34.png", 
+            "target": "N34.png"
+        }, 
+        {
+            "asset": "PokeJump/N105.png", 
+            "target": "N105.png"
+        }, 
+        {
+            "asset": "PokeJump/NewPJGround.png", 
+            "target": "NewPJGround.png"
+        }, 
+        {
+            "asset": "PokeJump/N118.png", 
+            "target": "N118.png"
+        }, 
+        {
+            "asset": "PokeJump/N194.png", 
+            "target": "N194.png"
+        }, 
+        {
+            "asset": "PokeJump/N177@2x.png", 
+            "target": "N177@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/Resources/Sounds/falling.wav", 
+            "target": "falling.wav"
+        }, 
+        {
+            "asset": "PokeJump/Gotit-01.png", 
+            "target": "Gotit-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N241@2x.png", 
+            "target": "N241@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N182@2x.png", 
+            "target": "N182@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N81.png", 
+            "target": "N81.png"
+        }, 
+        {
+            "asset": "PokeJump/N96@2x.png", 
+            "target": "N96@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/SUPERSWAG/OGAshh1.png", 
+            "target": "OGAshh1.png"
+        }, 
+        {
+            "asset": "PokeJump/TutorialGreen-01.png", 
+            "target": "TutorialGreen-01.png"
+        }, 
+        {
+            "asset": "PokeJump/N196.png", 
+            "target": "N196.png"
+        }, 
+        {
+            "asset": "PokeJump/PokeButton@2x.png", 
+            "target": "PokeButton@2x.png"
+        }, 
+        {
+            "asset": "PokeJump/N160.png", 
+            "target": "N160.png"
+        }, 
+        {
+            "asset": "PokeJump/N1.png", 
+            "target": "N1.png"
+        }, 
+        {
+            "asset": "PokeJump/N206.png", 
+            "target": "N206.png"
+        }, 
+        {
+            "asset": "PokeJump/Images.xcassets", 
+            "target": null
+        }
+    ], 
+    "config": {
+        "APPLICATION_FULL_NAME": "PokeJump", 
+        "APPLICATION_IDENTIFIER": "PokeJump.PokeJump", 
+        "APPLICATION_NAME": "PokeJump", 
+        "LONG_VERSION": "2.0", 
+        "SHORT_VERSION": "2.0", 
+        "TEMPLATE_VALUES": {
+            "EXECUTABLE_NAME": "PokeJump", 
+            "PRODUCT_NAME": "PokeJump"
+        }
+    }, 
+    "defines": {
+        "NS_BLOCK_ASSERTIONS": 1, 
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 70100
+    }, 
+    "deps": [
+        "UIKit", 
+        "CoreGraphics", 
+        "UIKit", 
+        "SpriteKit", 
+        "Foundation"
+    ], 
+    "flags": [
+        "-fobjc-arc", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fpascal-strings", 
+        "-Wempty-body", 
+        "-Wshorten-64-to-32", 
+        "-Wno-deprecated-declarations", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wformat", 
+        "-Wuninitialized", 
+        "-Wunused-function", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }, 
+        {
+            "flag": "-Wundeclared-selector", 
+            "type": "objc"
+        }
+    ], 
+    "header_paths": [
+        {
+            "header_path": "PokeJump-generated-files.hmap", 
+            "hmap": {}, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "PokeJump-own-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "PokeJump-all-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "PokeJump-project-headers.hmap", 
+            "hmap": {
+                "AppDelegate.h": {
+                    "key": "AppDelegate.h", 
+                    "prefix": "PokeJump/", 
+                    "suffix": "AppDelegate.h"
+                }, 
+                "MyScene.h": {
+                    "key": "MyScene.h", 
+                    "prefix": "PokeJump/", 
+                    "suffix": "MyScene.h"
+                }, 
+                "PokeJump-Prefix.pch": {
+                    "key": "PokeJump-Prefix.pch", 
+                    "prefix": "PokeJump/", 
+                    "suffix": "PokeJump-Prefix.pch"
+                }, 
+                "SKAction+SKTExtras.h": {
+                    "key": "SKAction+SKTExtras.h", 
+                    "prefix": "PokeJump/Resources/SKTUtils/", 
+                    "suffix": "SKAction+SKTExtras.h"
+                }, 
+                "SKAction+SKTSpecialEffects.h": {
+                    "key": "SKAction+SKTSpecialEffects.h", 
+                    "prefix": "PokeJump/Resources/SKTUtils/", 
+                    "suffix": "SKAction+SKTSpecialEffects.h"
+                }, 
+                "SKEmitterNode+SKTExtras.h": {
+                    "key": "SKEmitterNode+SKTExtras.h", 
+                    "prefix": "PokeJump/Resources/SKTUtils/", 
+                    "suffix": "SKEmitterNode+SKTExtras.h"
+                }, 
+                "SKNode+SKTDebugDraw.h": {
+                    "key": "SKNode+SKTDebugDraw.h", 
+                    "prefix": "PokeJump/Resources/SKTUtils/", 
+                    "suffix": "SKNode+SKTDebugDraw.h"
+                }, 
+                "SKNode+SKTExtras.h": {
+                    "key": "SKNode+SKTExtras.h", 
+                    "prefix": "PokeJump/Resources/SKTUtils/", 
+                    "suffix": "SKNode+SKTExtras.h"
+                }, 
+                "SKTAudio.h": {
+                    "key": "SKTAudio.h", 
+                    "prefix": "PokeJump/Resources/SKTUtils/", 
+                    "suffix": "SKTAudio.h"
+                }, 
+                "SKTEffects.h": {
+                    "key": "SKTEffects.h", 
+                    "prefix": "PokeJump/Resources/SKTUtils/", 
+                    "suffix": "SKTEffects.h"
+                }, 
+                "SKTTimingFunctions.h": {
+                    "key": "SKTTimingFunctions.h", 
+                    "prefix": "PokeJump/Resources/SKTUtils/", 
+                    "suffix": "SKTTimingFunctions.h"
+                }, 
+                "SKTUtils.h": {
+                    "key": "SKTUtils.h", 
+                    "prefix": "PokeJump/Resources/SKTUtils/", 
+                    "suffix": "SKTUtils.h"
+                }, 
+                "ViewController.h": {
+                    "key": "ViewController.h", 
+                    "prefix": "PokeJump/", 
+                    "suffix": "ViewController.h"
+                }
+            }, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "/var/folders/66/ljp_lr_d58z1f9xc72xycszc0000gn/T/tmptzrSZV/BUILT_PRODUCTS_DIR/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/66/ljp_lr_d58z1f9xc72xycszc0000gn/T/tmptzrSZV/DERIVED_FILE_DIR/armv7", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/66/ljp_lr_d58z1f9xc72xycszc0000gn/T/tmptzrSZV/DERIVED_FILE_DIR", 
+            "type": "I"
+        }
+    ], 
+    "infoplists": [
+        "./PokeJump/PokeJump-Info.plist"
+    ], 
+    "libs": [], 
+    "modules": [], 
+    "pchs": [
+        "./PokeJump/PokeJump-Prefix.pch"
+    ], 
+    "sources": [
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PokeJump/AppDelegate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PokeJump/MyScene.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PokeJump/Resources/SKTUtils/SKAction+SKTExtras.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PokeJump/Resources/SKTUtils/SKAction+SKTSpecialEffects.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PokeJump/Resources/SKTUtils/SKEmitterNode+SKTExtras.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PokeJump/Resources/SKTUtils/SKNode+SKTDebugDraw.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PokeJump/Resources/SKTUtils/SKNode+SKTExtras.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PokeJump/Resources/SKTUtils/SKTAudio.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PokeJump/Resources/SKTUtils/SKTEffects.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PokeJump/Resources/SKTUtils/SKTTimingFunctions.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PokeJump/ViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "PokeJump/main.m"
+        }
+    ], 
+    "storyboards": [
+        {
+            "storyboard": "PokeJump/Base.lproj/Main.storyboard", 
+            "target": null
+        }
+    ], 
+    "type": "app", 
+    "version": "3", 
+    "xcdatamodels": [], 
+    "xcode_project": "PokeJump.xcodeproj", 
+    "xibs": []
+}
